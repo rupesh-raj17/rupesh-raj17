@@ -1,7 +1,7 @@
 ![Masterhead](https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA)
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
 <h3 align="center">A passionate undergrad student at Nit Patna</h3>
-<img align="right" alt="Coding" width="190" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img align="right" alt="Coding" width="175" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-raj17&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-raj17" /> </p>
 
